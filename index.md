@@ -10,19 +10,25 @@
 
 ---
 [School Typing Game]<!--add link later(/pdf/sample_presentation.pdf)-->
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/TypingGame/Typing_Game_Login.png?raw=true"/>
+<img src="images/TypingGame/Typing_Game_Empty.png?raw=true"/>
+<img src="images/TypingGame/Typing_Game_Playing.png?raw=true"/>
+<img src="images/TypingGame/Typing_Game_Scores.png?raw=true"/>
 
 ---
 [School Egyptian Rat Screw] <!--add link later(http://example.com/)-->
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/EgyptianRatScrew/Connect_To_Ratscrew.png?raw=true"/>
+<img src="images/EgyptianRatScrew/Playy_Card_Ratscrew.png?raw=true"/>
+<img src="images/EgyptianRatScrew/Face_Card_Condition_Ratscrew.png?raw=true"/>
+<img src="images/EgyptianRatScrew/Player_Won_Ratscrew.png?raw=true"/>
 
 ---
 
 ### Code
 
-- [School Weather API](http://example.com/)
-- [School Typing Game](http://example.com/)
-- [School Egyptian Rat Screw](http://example.com/)
+- [School Weather API] <!--(http://example.com/)-->
+- [School Typing Game] <!--(http://example.com/)-->
+- [School Egyptian Rat Screw] <!--(http://example.com/)-->
 
 ---
 
