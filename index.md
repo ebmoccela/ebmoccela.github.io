@@ -22,10 +22,6 @@
 - [School Weather API](http://example.com/)
 - [School Typing Game](http://example.com/)
 - [School Egyptian Rat Screw](http://example.com/)
-<!--
- [Project 4 Title](http://example.com/)
- [Project 5 Title](http://example.com/)
--->
 
 ---
 
