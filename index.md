@@ -18,7 +18,7 @@
 ---
 [School Egyptian Rat Screw] <!--add link later(http://example.com/)-->
 <img src="images/EgyptianRatScrew/Connect_To_Ratscrew.png?raw=true"/>
-<img src="images/EgyptianRatScrew/Playy_Card_Ratscrew.png?raw=true"/>
+<img src="images/EgyptianRatScrew/Play_Card_Ratscrew.png?raw=true"/>
 <img src="images/EgyptianRatScrew/Face_Card_Condition_Ratscrew.png?raw=true"/>
 <img src="images/EgyptianRatScrew/Player_Won_Ratscrew.png?raw=true"/>
 
