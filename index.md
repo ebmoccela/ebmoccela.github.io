@@ -5,7 +5,8 @@
 ### Project Preview
 
 [School Weather API] <!--add link later(/sample_page)-->
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Enter_City_Weather_API.png?raw=true"/>
+<img src="images/Current_Weather_Weather_API.png?raw=true"/>
 
 ---
 [School Typing Game]<!--add link later(/pdf/sample_presentation.pdf)-->
