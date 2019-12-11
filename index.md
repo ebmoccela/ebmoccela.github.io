@@ -2,22 +2,22 @@
 
 ---
 
-### Category Name 1 
+### Project Preview
 
-[School Weather API](/sample_page)
+[School Weather API] <!--add link later(/sample_page)-->
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[School Typing Game](/pdf/sample_presentation.pdf)
+[School Typing Game]<!--add link later(/pdf/sample_presentation.pdf)-->
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[School Egyptian Rat Screw](http://example.com/)
+[School Egyptian Rat Screw] <!--add link later(http://example.com/)-->
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
+### Code
 
 - [School Weather API](http://example.com/)
 - [School Typing Game](http://example.com/)
