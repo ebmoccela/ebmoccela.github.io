@@ -4,26 +4,28 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[School Weather API](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[School Typing Game](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[School Egyptian Rat Screw](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
 ### Category Name 2
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
+- [School Weather API](http://example.com/)
+- [School Typing Game](http://example.com/)
+- [School Egyptian Rat Screw](http://example.com/)
+<!--
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
+-->
 
 ---
 
