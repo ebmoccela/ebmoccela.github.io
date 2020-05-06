@@ -20,16 +20,11 @@
 
 ---
 ### Birthday Messenger
-in-progress
 <img src="images/birthday_images/Screenshot_20200506-121414_birthday_scheduler.jpg?raw=true"/>
 <img src="images/birthday_images/Screenshot_20200506-121454_birthday_scheduler.jpg?raw=true"/>
 <img src="images/birthday_images/Screenshot_20200506-121529_birthday_scheduler.jpg?raw=true"/>
 <img src="images/birthday_images/Screenshot_20200506-121543_birthday_scheduler.jpg?raw=true"/>
 <img src="images/birthday_images/Screenshot_20200506-122105_birthday_scheduler.jpeg?raw/true"/>
-
----
-### Image Filter Bot
-in-progress
 
 
 
@@ -40,7 +35,6 @@ in-progress
 - [School Typing Game](https://github.com/ebmoccela/School_Typing_Game/tree/1a6caf0aa83d8fb0d49a1f28da3bd78f938fb714)
 - [School Egyptian Rat Screw](https://github.com/GoatRydah/School_EgyptianRatscrew/tree/68c31993c3ef530b939f3f2b59ad9bf68c16af32)
 - [Birthday Messenger](https://github.com/ebmoccela/birthday_messager/tree/master/app/src/main)
-- [Image Filter Bot](https://github.com/ebmoccela/imagefilterbot)
 
 ---
 
