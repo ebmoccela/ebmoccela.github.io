@@ -1,31 +1,61 @@
-## This can be your internal website page / project page
+**Project description:** A single player game were a player could try and type as many words as possible, only losing if a word went below the water line. Languages used were CSS, HTML, JavaScript and PHP.
 
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+### 1. Code Snippets
 
-### 1. Suggest hypotheses about the causes of observed phenomena
-
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+Function used to update the position of the word in the DOM.
 
 ```javascript
-if (isAwesome){
-  return true
+function myMove(wordNumber) {
+    //added style to this -- alec
+    var elem = document.getElementById('test'+wordNumber);
+    
+    /*can implement later if we want, it's for a faster paced game. It should work -- alec*/
+    //var RATE_INTERVAL = 0.5;
+    var rate = 30;  //current speed at which words drop -- alec
+    //rate = rate + RATE_INTERVAL;
+    
+    var pos = 0 //starting position of words -- alec
+    var h = window.innerHeight;     //dynamic window height, should adjust to YOUR screen --alec
+    var id = setInterval(frame, rate);  //function not sure what it does --alec
+    function frame() {
+         if(pos >= h*.65){
+             clearInterval(id);
+             //call a endGame function -- alec
+             endGame();
+         }
+        else if(gameOver != false){
+                clearInterval(id);  //resets interval -- alec
+                //endGame();
+        }
+         else{
+             pos+=.5;
+             //value;
+             if(userWord.localeCompare(fiveWords[wordNumber-1].toUpperCase()) == 0){ //if user whole word matches a word
+                 //var index1 = isMatch.findIndex(checkTrue);
+                 //throws and infinite loop without value reset -- alec
+                 //document.getElementById('myAnimation'+wordNumber).innerHTML = "";
+                 //value = "";
+                 pos = 0;
+                 //fiveWords[wordNumber-1] = 
+				         updateWord(wordNumber - 1);
+				         console.log(fiveWords[wordNumber - 1]);
+                 document.getElementById("myAnimation"+wordNumber).innerHTML = fiveWords[wordNumber-1]; //undoes highlight on correct word
+                 
+                 //reset value and userword fixes the first typing issue -- alec
+                 value = "";
+                 userWord = "";
+
+
+                 //myMove(index + 1);
+             }
+             else{
+                elem.style.transform = "translateY(" + pos + "px)"; //else move it down
+             }
+         }
+     }
 }
 ```
 
-### 2. Assess assumptions on which statistical inference will be based
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
 
-### 3. Support the selection of appropriate statistical tools and techniques
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
-### 4. Provide a basis for further data collection through surveys or experiments
-
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
