@@ -5,7 +5,7 @@
 ## Project Preview
 
 ---
-### School Typing Game <!--add link later(/pdf/sample_presentation.pdf)-->
+### [School Typing Game](https://ebmoccela.github.io/school_typing_game)
 <img src="images/TypingGame/Typing_Game_Login.png?raw=true"/>
 <img src="images/TypingGame/Typing_Game_Empty_Game.png?raw=true"/>
 <img src="images/TypingGame/Typing_Game_Playing.png?raw=true"/>
