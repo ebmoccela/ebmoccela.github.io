@@ -18,13 +18,13 @@
 <img alt="Game 3 cards" src="images/EgyptianRatScrew/Face_Card_Condition_Ratscrew.png?raw=true"/>
 <img alt="Game with winner" src="images/EgyptianRatScrew/Player_Won_Ratscrew.png?raw=true"/>
 
----
+<!---
 ### [Birthday Messenger](https://ebmoccela.github.io/birthday_messenger)
 <img alt="Calendar on Phone" src="images/birthday_images/Screenshot_20200506-121414_birthday_scheduler.jpg?raw=true"/>
 <img alt="Time spinner" src="images/birthday_images/Screenshot_20200506-121454_birthday_scheduler.jpg?raw=true"/>
 <img alt="Date with event, year 2020" src="images/birthday_images/Screenshot_20200506-121529_birthday_scheduler.jpg?raw=true"/>
 <img alt="Same date, year 2021" src="images/birthday_images/Screenshot_20200506-121543_birthday_scheduler.jpg?raw=true"/>
-<img alt="Text sent on day" src="images/birthday_images/Screenshot_20200506-122105_birthday_scheduler.jpeg?raw/true"/>
+<img alt="Text sent on day" src="images/birthday_images/Screenshot_20200506-122105_birthday_scheduler.jpeg?raw/true"/>--->
 
 ---
 ### [Image Filter Bot](https://ebmoccela.github.io/image_filter_bot)
@@ -40,7 +40,7 @@
 
 - [School Typing Game Repository](https://github.com/ebmoccela/School_Typing_Game)
 - [School Egyptian Rat Screw Repository](https://github.com/GoatRydah/School_EgyptianRatscrew/tree/68c31993c3ef530b939f3f2b59ad9bf68c16af32)
-- [Birthday Messenger Repository](https://github.com/ebmoccela/birthday_messager)
+<!---- [Birthday Messenger Repository](https://github.com/ebmoccela/birthday_messager)--->
 - [Image Filter Bot Repository](https://github.com/ebmoccela/imagefilterbot)
 
 ---
