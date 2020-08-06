@@ -28,6 +28,10 @@
 
 ---
 ### [Image Filter Bot](https://ebmoccela.github.io/image_filter_bot)
+<img alt="sending image of dog" src="images/image_filter_bot/image_posted.PNG?raw=true">
+<img alt="image of dog received" src="images/image_filter_bot/send_image.PNG?raw=true">
+<img alt="an image that might contain nudity" src="images/image_filter_bot/nude_image.png?raw=true">
+<img alt="response to the sender of the image" src="images/image_filter_bot/response_to_delete.PNG?raw=true">
 
 
 ---
