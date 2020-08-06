@@ -34,15 +34,8 @@
 <img alt="response to the sender of the image" src="images/image_filter_bot/response_to_delete.PNG?raw=true">
 
 
----
 
-## Code
-
-- [School Typing Game Repository](https://github.com/ebmoccela/School_Typing_Game)
-- [School Egyptian Rat Screw Repository](https://github.com/GoatRydah/School_EgyptianRatscrew/tree/68c31993c3ef530b939f3f2b59ad9bf68c16af32)
-- [Image Filter Bot Repository](https://github.com/ebmoccela/imagefilterbot)
 <!---- [Birthday Messenger Repository](https://github.com/ebmoccela/birthday_messager)--->
----
 
 
 
