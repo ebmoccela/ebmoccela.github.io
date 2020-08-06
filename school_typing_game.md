@@ -37,8 +37,8 @@ function myMove(wordNumber) {
                  //value = "";
                  pos = 0;
                  //fiveWords[wordNumber-1] = 
-				         updateWord(wordNumber - 1);
-				         console.log(fiveWords[wordNumber - 1]);
+		 updateWord(wordNumber - 1);
+		 console.log(fiveWords[wordNumber - 1]);
                  document.getElementById("myAnimation"+wordNumber).innerHTML = fiveWords[wordNumber-1]; //undoes highlight on correct word
                  
                  //reset value and userword fixes the first typing issue -- alec
