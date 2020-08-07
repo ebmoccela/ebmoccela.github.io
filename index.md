@@ -12,7 +12,7 @@
 <img alt="High scores" src="images/TypingGame/Typing_Game_Scores.png?raw=true"/>
 
 ---
-### [School Egyptian Rat Screw](https://ebmoccela.github.io/egyptian_ratscrew)
+### [School Egyptian Ratscrew](https://ebmoccela.github.io/egyptian_ratscrew)
 <img alt="New game" src="images/EgyptianRatScrew/Connect_To_Ratscrew.png?raw=true"/>
 <img alt="Game start" src="images/EgyptianRatScrew/Play_Card_Ratscrew.png?raw=true"/>
 <img alt="Game 3 cards" src="images/EgyptianRatScrew/Face_Card_Condition_Ratscrew.png?raw=true"/>
