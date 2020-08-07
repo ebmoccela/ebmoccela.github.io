@@ -11,4 +11,4 @@
 Code available upon request
 
 ## Software Engineering II Class
-This course gave me the oppurtunity to work with a group and with new technologies I wasn't familiar with. We learned how to divide work, assist each other, plan and take on new challenges.
+This course gave me the opportunity to work with a group and with new technologies I wasn't familiar with. We learned how to divide work, assist each other, plan and take on new challenges.
