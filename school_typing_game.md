@@ -4,7 +4,7 @@
 **Project description:** As a group project my group and I developed a typing game using JavaScript, HTML, CSS and PHP. The program requires the user to sign in or create a profile before playing. Once completed, the user is required to type the words on screen only losing when one falls below the water line. On loss, the player is taken to a scores page to view the top scores.
 
 ### Key Features
-* Primarily programmed in JavaScript using Brackets
+* Primarily programmed in JavaScript, HTML, CSS and PHP using Brackets
 * Utilized PHP to manage sessions, submit user information, and get words
 * Utilized JavaScript for DOM animations
 
